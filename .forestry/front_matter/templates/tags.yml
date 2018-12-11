@@ -27,5 +27,12 @@ fields:
     (only if Sidebar Link active)
   config:
     min: '1'
+- type: select
+  config:
+    source:
+      type: pages
+  label: sdgdsfgdg
+  name: sdgdsfgdgf
+  description: saaaaaa
 pages:
 - tags.md
