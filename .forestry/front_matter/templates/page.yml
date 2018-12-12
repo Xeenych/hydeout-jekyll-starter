@@ -14,12 +14,6 @@ fields:
   hidden: false
   default: ''
   description: Add page title here
-- type: datetime
-  name: date
-  label: Date
-  config:
-    required: false
-  description: Add publishing date here
 - type: boolean
   name: sidebar_link
   label: Sidebar Link
@@ -32,6 +26,10 @@ fields:
     if Sidebar Link is active)
   config:
     min: '1'
+- type: image_gallery
+  name: gallery
+  label: gallery
+  description: ''
 pages:
 - about.md
 - hjlhjl.md
