@@ -7,6 +7,5 @@ sidebar_sort_order: ''
 gallery:
 - assets/img/Y7hSf77opMs.jpg
 - assets/img/1.jpg
-published: false
 
 ---
