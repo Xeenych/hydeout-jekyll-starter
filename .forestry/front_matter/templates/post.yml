@@ -45,5 +45,8 @@ fields:
   label: Comments
   description: Active if you want to allow comments (this option is only available
     if you've set Disqus up in your Site Configuration)
+- type: image_gallery
+  name: gfhfghgfh
+  label: gfh
 pages:
 - _posts/6667.md
