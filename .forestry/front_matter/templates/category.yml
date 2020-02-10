@@ -1,7 +1,6 @@
 ---
 label: Category
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: layout
@@ -22,3 +21,5 @@ fields:
   description: Add category title here
   config:
     required: false
+pages:
+- category/перевалы.md
